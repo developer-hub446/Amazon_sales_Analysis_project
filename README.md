@@ -7,7 +7,7 @@
 
 **ROHAN KUMAR**
 📧 rk7038303@gmail.com
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohan-kumar-0a34a1256/)
 💼 Fresher Data Analyst | Excel · PostgreSQL · Power BI
 
 ---
